@@ -1,0 +1,6 @@
+
+# Allow all web crawlers access to all content
+User-agent: *
+
+# Point to the sitemap
+Sitemap: https://baanbanchi.com/sitemap.xml
